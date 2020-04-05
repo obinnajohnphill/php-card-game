@@ -77,7 +77,7 @@ if (isset($_REQUEST['level']) ) {
 	?>
 </style>
 <body>
-<h3>Simple Memory Game</h3>
+<h3>Card Game Prototype</h3>
 <div id="sfx_movie">
 	<h1>This page requires flash for full funcionality</h1>
 	<p><a href="http://www.adobe.com/go/getflashplayer">
